@@ -1,0 +1,11 @@
+﻿  DCT.cpp
+C:\opencv\DCT\DCT\DCT.cpp(36,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\opencv\DCT\DCT\DCT.cpp(49,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\opencv\DCT\DCT\DCT.cpp(405,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\opencv\DCT\DCT\DCT.cpp(485,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다.
+  11 of 24 functions (45.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  DCT.vcxproj -> C:\opencv\DCT\x64\Release\DCT.exe
